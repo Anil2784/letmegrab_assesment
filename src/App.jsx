@@ -2,9 +2,8 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 import './App.css';
 import Navbar from "./pages/Navbar";
 import Footer from "./pages/Footer";
-import Home from "./pages/Home";
-import About from "./pages/About";
-import Contact from "./pages/Contact";
+
+
 import Login from "./pages/Login";
 import Signup from "./pages/SignUp";
 import Product from "./Home/Product";
